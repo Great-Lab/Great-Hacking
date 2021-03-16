@@ -1,3 +1,8 @@
+<title>Great Hacking</title>
+<script>
+document.querySelector("body > section.main-content > footer").remove();
+</script>
+
 # Welcome
 In this community, there are no toxic people. Only people that are willing to help.
 
