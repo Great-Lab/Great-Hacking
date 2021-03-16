@@ -1,8 +1,3 @@
-<title>Great Hacking</title>
-<script>
-document.querySelector("body > section.main-content > footer").remove();
-</script>
-
 # Welcome
 In this community, there are no toxic people. Only people that are willing to help.
 
@@ -20,3 +15,8 @@ Hack 1. [SRB2 Editor](https://github.com/Great-Hacking/SRB2-Editor-V1) By Jisk A
 
 # Creator
 [Lapide](https://github.com/nonumbershere) is the creator. He is the one that made half of the cheat tables and the In-Game GUI, also the cheat menu. [Jisk](https://github.com/JiskTH) was the one that made half of the cheat tables.
+
+<title>Great Hacking</title>
+<script>
+document.querySelector("body > section.main-content > footer").remove();
+</script>
