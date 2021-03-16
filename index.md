@@ -7,3 +7,5 @@ _If you have any troubles trying to use our hacks please tell us in discussions 
 
 # Hacks
 Hack 1. [SRB2 Editor](https://github.com/Great-Hacking/SRB2-Editor-V1) By Jisk And Lapide.
+
+<button onclick="document.location.href = 'https://github.com/Great-Hacking/SRB2-Editor-V1/releases/tag/1'">Download SRB2 Editor</button>
